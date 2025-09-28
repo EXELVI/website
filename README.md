@@ -40,6 +40,9 @@ This project features a modern personal portfolio developed with **React**, feat
 
 ![Terminal](TerminalScreenshot.png) 
 
+> [!NOTE]\
+> __How to open the terminal?__ Go to the Projects section and on the **Terminal** project click on **Try** button.
+
 ### 🔧 **Technical Features**
 
 - 🖱️ **Draggable Window** with complete controls (minimize/maximize/close)
@@ -174,6 +177,7 @@ This project features a modern personal portfolio developed with **React**, feat
 
 ### **Installation**
 
+> [!WARNING]\
 > Follow the [official Next.js guide](https://nextjs.org/docs/app/getting-started/installation) before starting.
 
 ```bash
